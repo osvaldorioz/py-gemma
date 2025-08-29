@@ -9,3 +9,6 @@ El proyecto es un microservicio híbrido que combina C++ y Python para crear un 
 - config.json: Inspirado en mcp-sql y con un prompt Java (system-qa.st), define instrucciones para respuestas amigables sobre cervezas, incluyendo maridajes y sugerencias de visualización.
 
 El microservicio procesa consultas sobre cervezas, recupera metadatos de Redis y genera respuestas naturales usando gemma3:270m.
+
+
+<img width="904" height="939" alt="screen1" src="https://github.com/user-attachments/assets/0d49fe4c-817f-4e80-b033-a19e90a1586e" />
