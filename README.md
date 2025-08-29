@@ -14,6 +14,8 @@ El microservicio procesa consultas sobre cervezas, recupera metadatos de Redis y
 <img width="904" height="939" alt="screen1" src="https://github.com/user-attachments/assets/0d49fe4c-817f-4e80-b033-a19e90a1586e" />
 
 
+
+
 Descripción de gemma3:270m y su Rol
 ¿Qué es gemma3:270m?
 
