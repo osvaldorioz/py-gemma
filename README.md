@@ -102,7 +102,11 @@ Redis: Ejecutado vía docker-compose.yml con redis/redis-stack-server.
 Dependencias: Paquetes Python (fastapi, uvicorn, redis, sentence-transformers, streamlit, requests) y bibliotecas C++ (libhiredis-dev, redis++, pybind11).
 Directorio: /home/hadoop/Documentos/cpp_programs/pybind/py-gemma.
 
-Ejemplo de Flujo
+<img width="845" height="869" alt="screen3" src="https://github.com/user-attachments/assets/722cb5ea-0e19-409f-b13b-98b8671cb049" />
+
+
+Ejemplo de Flujo:
+
 Para la consulta "Háblame de Nut Brown Ale":
 
 Streamlit envía la consulta a /chat/{chatId}.
