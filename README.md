@@ -14,9 +14,11 @@ El microservicio procesa consultas sobre cervezas, recupera metadatos de Redis y
 <img width="904" height="939" alt="screen1" src="https://github.com/user-attachments/assets/0d49fe4c-817f-4e80-b033-a19e90a1586e" />
 
 
+<img width="853" height="922" alt="screen2" src="https://github.com/user-attachments/assets/61988dfa-a329-478c-aaae-5ef5fa06ff81" />
 
 
 Descripción de gemma3:270m y su Rol
+
 ¿Qué es gemma3:270m?
 
 gemma3:270m es un modelo de lenguaje ligero y de código abierto desarrollado por Google, parte de la familia Gemma, con 270 millones de parámetros. Está optimizado para tareas de generación de texto, como responder preguntas o generar texto natural.
