@@ -164,3 +164,6 @@ Rendimiento y Consistencia:
 
 El cambio no afecta el rendimiento (tiempo de respuesta o uso de recursos), ya que la temperatura solo modifica la distribución de probabilidad, no la carga computacional.
 La consistencia entre respuestas para la misma consulta disminuirá ligeramente, pero seguirá siendo alta debido al valor bajo de 0.3.
+
+<img width="1124" height="974" alt="screen5" src="https://github.com/user-attachments/assets/035451c2-7936-47c7-9d96-edd247345149" />
+
